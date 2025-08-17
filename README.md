@@ -162,7 +162,7 @@ Este proyecto está bajo licencia [Apache-2.0](LICENSE).
 ## 🧑‍💻 Autor
 
 Desarrollado por **[LunaVerseX](https://www.lunaversex.com)**.
-Mantenido por [Joaco Heredia](https://github.com/joacoheredia).
+Mantenido por [Joaco Heredia](https://github.com/joaco-heredia).
 
 ---
 
@@ -173,5 +173,6 @@ Mantenido por [Joaco Heredia](https://github.com/joacoheredia).
 * 🎉 Lanzamiento inicial del SDK.
 * ✅ Implementación de métodos `chat()`, `chatStream()`, `listModels()`, `setConfig()`, `tokens()`.
 * 📝 Documentación inicial con ejemplos de uso.
+
 
 
