@@ -1,0 +1,28 @@
+{
+"name": "@lunaversex/genai",
+"version": "0.3.0",
+"description": "LunaVerseX Generative AI SDK for JavaScript",
+"main": "dist/index.js",
+"types": "dist/index.d.ts",
+"files": [
+"dist"
+],
+"scripts": {
+"build": "tsc",
+"test": "node --test example.js",
+"prepublishOnly": "npm run build"
+},
+"keywords": [
+"ai",
+"sdk",
+"lunaversex",
+"generative-ai"
+],
+"author": "LunaVerseX",
+"license": "Apache-2.0",
+"dependencies": {},
+"devDependencies": {
+"typescript": "^5.9.2",
+"ts-node": "^10.9.2"
+}
+}
