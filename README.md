@@ -3,7 +3,7 @@
 ![NPM Version](https://img.shields.io/npm/v/@lunaversex/genai)
 ![License](https://img.shields.io/npm/l/@lunaversex/genai)
 ![Node.js Version](https://img.shields.io/node/v/@lunaversex/genai)
-![Build Status](https://img.shields.io/github/workflow/status/lunaversex/genai/CI)
+![Build Status](https://img.shields.io/github/actions/workflow/status/lunaversex/genai/ci.yml?branch=main)
 
 **LunaVerseX Generative AI SDK for JavaScript**
 
@@ -173,3 +173,4 @@ Mantenido por [Joaco Heredia](https://github.com/joacoheredia).
 * 🎉 Lanzamiento inicial del SDK.
 * ✅ Implementación de métodos `chat()`, `chatStream()`, `listModels()`, `setConfig()`, `tokens()`.
 * 📝 Documentación inicial con ejemplos de uso.
+
