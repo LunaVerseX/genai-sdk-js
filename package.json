@@ -4,6 +4,9 @@
 "description": "LunaVerseX Generative AI SDK for JavaScript",
 "main": "dist/index.js",
 "types": "dist/index.d.ts",
+  "engines": {
+  "node": ">=17"
+  },
 "files": [
 "dist"
 ],
@@ -26,3 +29,4 @@
 "ts-node": "^10.9.2"
 }
 }
+
